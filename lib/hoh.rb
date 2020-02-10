@@ -37,5 +37,6 @@ def naming_system
 hoh = [PORTION_1,PORTION_2,PORTION_3,PORTION_4[:label]]
 hoh.each do |value|
 end
+end
 puts naming_system
 
